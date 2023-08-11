@@ -15,4 +15,4 @@ Ideally, scooters get rearranged organically by having certain users moving from
 Either way, the company wants to anticipate as much as possible scooter movements. Predictive modelling is certainly on the roadmap, but the first step is to collect more data, transform it and store it appropriately. This is where you come in: your task will be to collect data from external sources that can potentially help Gans predict e-scooter movement. Since data is needed every day, in real-time and accessible by everyone in the company, the challenge is going to be to assemble and automate a data pipeline in the cloud.
 
 
-Also feel free to check out my blogpost on Medium about this project: [Medium]([url](https://medium.com/@83sabrinareimann/data-engineering-my-first-time-6fa5748967da)https://medium.com/@83sabrinareimann/data-engineering-my-first-time-6fa5748967da)
+Also feel free to check out my blogpost on Medium about this project: https://medium.com/@83sabrinareimann/data-engineering-my-first-time-6fa5748967da
